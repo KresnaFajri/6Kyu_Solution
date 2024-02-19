@@ -1,4 +1,8 @@
-aku coba tes, 
+test 
+test
+test
+main
+aku coba tes
 1
 2
 3
